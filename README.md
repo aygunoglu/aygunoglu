@@ -6,7 +6,7 @@
 
 Hi! I'm Hasan, an iOS Developer with a background in EE. I have about three years of professional experience in working with Swift and iOS frameworks. As is the case with most iOS developers, my work life revolves around UIKit, however, you can find me diving deep into the world of SwiftUI at nights and during weekends for my personal passion projects. 
 
-I am located in İstanbul and currently working at DonanimHaber.com, Turkey's largest forum and tech news website.
+I am located in İstanbul and currently working at Loodos Tech.
 
  <img src="https://github-readme-stats.vercel.app/api?username=aygunoglu&show_icons=true&locale=en&theme=dark" alt="aygunoglu" />
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aygunoglu&show_icons=true&locale=en&theme=dark&layout=compact" alt="aygunoglu" />
