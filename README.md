@@ -4,9 +4,9 @@
 <a href="mailto:hasanaygunoglu@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/-hasanaygunoglu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hasanaygunoglu@gmail.com"/></a> 
 <a href="https://medium.com/@hasanaygunoglu" target="_blank"> <img src="https://img.shields.io/badge/-hasanaygunoglu-000000?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@hasanaygunoglu"/></a>
 
-Hi! I'm Hasan, an iOS Developer with a background in EE. I have about three years of professional experience in working with Swift and iOS frameworks. As is the case with most iOS developers, my work life revolves around UIKit, however, you can find me diving deep into the world of SwiftUI at nights and during weekends for my personal passion projects. 
+Hi! I'm Hasan, an iOS Developer with a background in EE. I have about four years of professional experience in working with Swift and iOS frameworks. As is the case with most iOS developers, my work life revolves around UIKit, however, you can find me diving deep into the world of SwiftUI at nights and during weekends for my personal passion projects. 
 
-I am located in İstanbul and currently working at Loodos Tech.
+I am located in İstanbul and currently working at ForInvest.
 
  <img src="https://github-readme-stats.vercel.app/api?username=aygunoglu&show_icons=true&locale=en&theme=dark" alt="aygunoglu" />
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aygunoglu&show_icons=true&locale=en&theme=dark&layout=compact" alt="aygunoglu" />
